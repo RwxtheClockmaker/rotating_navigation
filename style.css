@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: system-ui;
+    background-color: #333;
+    
+    /*prevents scroll bar on x-axis*/
+    overflow-x: hidden; 
+
+    margin: 0;
+    color: #222;
+}
+.container{
+    background-color: #fafafa;
+}
